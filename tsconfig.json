@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitAny": false,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules",
+    ".c9"
+  ],
+  "references": [
+    "./vault.ts",
+    "typings/tsd.d.ts"
+  ]
+}
